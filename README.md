@@ -1,2 +1,2 @@
 # open-bible
-Open-source Bible app for reading, reference and study
+Open-source Bible app for distraction-free reading, reference and study
